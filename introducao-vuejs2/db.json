@@ -1,0 +1,94 @@
+{
+    "categorias": [
+      { 
+        "id": 1,
+        "titulo": "Terror",
+        "filmes": [
+          {
+            "id": 1, "titulo": "It: A Coisa", "imagem": "http://br.web.img2.acsta.net/pictures/17/03/29/07/56/333222.jpg"
+          },
+          {
+            "id": 2, "titulo": "It: A Coisa", "imagem": "http://br.web.img2.acsta.net/pictures/17/03/29/07/56/333222.jpg"
+          },
+          {
+            "id": 3, "titulo": "It: A Coisa", "imagem": "http://br.web.img2.acsta.net/pictures/17/03/29/07/56/333222.jpg"
+          },
+          {
+            "id": 4, "titulo": "It: A Coisa", "imagem": "http://br.web.img2.acsta.net/pictures/17/03/29/07/56/333222.jpg"
+          },
+          {
+            "id": 5, "titulo": "It: A Coisa", "imagem": "http://br.web.img2.acsta.net/pictures/17/03/29/07/56/333222.jpg"
+          },
+          {
+            "id": 6, "titulo": "It: A Coisa", "imagem": "http://br.web.img2.acsta.net/pictures/17/03/29/07/56/333222.jpg"
+          },
+          {
+            "id": 7, "titulo": "It: A Coisa", "imagem": "http://br.web.img2.acsta.net/pictures/17/03/29/07/56/333222.jpg"
+          },
+          {
+            "id": 8, "titulo": "It: A Coisa", "imagem": "http://br.web.img2.acsta.net/pictures/17/03/29/07/56/333222.jpg"
+          }
+        ]
+      },
+      { 
+        "id": 2,
+        "titulo": "Comédia",
+        "filmes": [
+          {
+            "id": 1, "titulo": "Click", "imagem": "https://upload.wikimedia.org/wikipedia/pt/b/bd/Click_film.jpg"
+          },
+          {
+            "id": 2, "titulo": "Click", "imagem": "https://upload.wikimedia.org/wikipedia/pt/b/bd/Click_film.jpg"
+          },
+          {
+            "id": 3, "titulo": "Click", "imagem": "https://upload.wikimedia.org/wikipedia/pt/b/bd/Click_film.jpg"
+          },
+          {
+            "id": 4, "titulo": "Click", "imagem": "https://upload.wikimedia.org/wikipedia/pt/b/bd/Click_film.jpg"
+          },
+          {
+            "id": 5, "titulo": "Click", "imagem": "https://upload.wikimedia.org/wikipedia/pt/b/bd/Click_film.jpg"
+          },
+          {
+            "id": 6, "titulo": "Click", "imagem": "https://upload.wikimedia.org/wikipedia/pt/b/bd/Click_film.jpg"
+          },
+          {
+            "id": 7, "titulo": "Click", "imagem": "https://upload.wikimedia.org/wikipedia/pt/b/bd/Click_film.jpg"
+          },
+          {
+            "id": 8, "titulo": "Click", "imagem": "https://upload.wikimedia.org/wikipedia/pt/b/bd/Click_film.jpg"
+          }
+        ]
+      },
+      { 
+        "id": 3,
+        "titulo": "Animation",
+        "filmes": [
+          {
+            "id": 1, "titulo": "Tonari no Totoro", "imagem": "https://s3.amazonaws.com/festivaldorio/2015/site/peliculas/large2/meuamigot_f01cor_2015111321.jpg"
+          },
+          {
+            "id": 2, "titulo": "Sen to Chihiro no Kamikakushi", "imagem": "https://static.mfah.com/app/images/04cc849f-4f82-4995-a7d1-b09b776e4a8a.jpg?maxWidth=1600&maxHeight=1600&format=jpg&quality=90"
+          },
+          {
+            "id": 3, "titulo": "Howl no Ugoku Shiro", "imagem": "https://4.bp.blogspot.com/-pSh2f1h5ERA/UA7d-_EVIhI/AAAAAAAAFbE/0-K8urjudOc/s1600/tumblr_ltib3ojbjr1qj11udo1_500_large.png"
+          },
+          {
+            "id": 4, "titulo": "Majo no Takkyūbin", "imagem": "http://moviemezzanine.com/wp-content/uploads/kiki-1-1140x685.jpg"
+          },
+          {
+            "id": 5, "titulo": "Gake no Ue no Ponyo", "imagem": "http://moviemezzanine.com/wp-content/uploads/ponyo-1140x615.png"
+          },
+          {
+            "id": 6, "titulo": "Mononoke Hime", "imagem": "https://vignette.wikia.nocookie.net/7ec80432-5089-44c8-90eb-abf8fb7a8899/scale-to-width-down/800"
+          },
+          {
+            "id": 7, "titulo": "Hotaru no haka", "imagem": "http://1.bp.blogspot.com/--sXKhkzXCa0/VCgSkNhNfJI/AAAAAAAAC2A/XZr8yy8f9_o/s1600/grave-of-the-fireflies-cover.jpg"
+          },
+          {
+            "id": 8, "titulo": "Mimi wo sumaseba", "imagem": "https://nefariousreviews.files.wordpress.com/2017/05/whisper-of-the-heart-featured.jpg?w=672&h=372&crop=1"
+          }
+        ]
+      }
+    ]
+  }
