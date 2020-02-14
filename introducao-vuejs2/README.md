@@ -1,11 +1,12 @@
 # introducao-vuejs2
+> A Vue.js project
 
-## Install JSON Server
-```
+## Getting started
+``` 
+# install JSON Server
 npm install -g json-server
-```
 
-## Start JSON Server
-```
-json-server --watch db.json
+# start JSON Server
+npm run dev
+
 ```
